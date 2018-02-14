@@ -34,6 +34,7 @@ const Style = {
         marginLeft: '10%',
         marginRight: '10%',
         textAlign: 'center',
+        minHeight: '55vh',
     },
     title: {
         fontSize: '40px',
