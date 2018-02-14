@@ -162,6 +162,9 @@ const Style = {
     marginLeft: '8%',
     marginTop: '40px',
   },
+  searchContainer: {
+    minHeight: '90vh'
+  },
   inputContainer: {
     display: 'flex',
     flexDirection: 'row',
